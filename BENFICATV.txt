@@ -1,0 +1,62 @@
+
+
+#EXTINF:-1,PT: Benfica TV
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1497
+#EXTINF:-1,PT: Benfica TV
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1497
+#EXTINF:-1,|PT| Benfica 1 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14557
+#EXTINF:-1,||pt|| BTV   LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36992
+#EXTINF:-1,PT1: BENFICA 4K
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78540
+#EXTINF:-1,PT: BENFICA TV FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77960
+#EXTINF:-1,PT1: BENFICA TV FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78413
+#EXTINF:-1,PT1: BENFICA TV SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78539
+#EXTINF:-1,PT: Benfica TV HD
+http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/428
+#EXTINF:-1,PT: Benfica TV SD
+http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/429
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Benfica 1 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14557
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Btv
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/886
+#EXTINF:-1,|PT| Benfica 1 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14557
+#EXTINF:-1,PT: Benfica TV
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/159998
+#EXTINF:-1,PT | BTV ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1209
+#EXTINF:-1,PT: Benfica TV
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1497
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
